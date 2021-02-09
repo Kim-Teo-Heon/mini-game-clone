@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "type" : "tshirt", 
+            "gender" : "female", 
+            "size" : "large", 
+            "color" : "pink", 
+            "image" : "../imgs/pink_t.png"
+        },
+        {
+            "type" : "tshirt", 
+            "gender" : "male", 
+            "size" : "large", 
+            "color" : "pink", 
+            "image" : "../imgs/pink_t.png"
+        },
+        {
+            "type" : "tshirt", 
+            "gender" : "female", 
+            "size" : "large", 
+            "color" : "pink", 
+            "image" : "../imgs/pink_t.png"
+        },
+        {
+            "type" : "tshirt", 
+            "gender" : "female", 
+            "size" : "large", 
+            "color" : "pink", 
+            "image" : "../imgs/pink_t.png"
+        },
+        {
+            "type" : "tshirt", 
+            "gender" : "female", 
+            "size" : "large", 
+            "color" : "pink", 
+            "image" : "../imgs/pink_t.png"
+        },
+        {
+            "type" : "tshirt", 
+            "gender" : "female", 
+            "size" : "large", 
+            "color" : "pink", 
+            "image" : "../imgs/pink_t.png"
+        }
+    ]
+}
